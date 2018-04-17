@@ -9,7 +9,8 @@
 Pod::Spec.new do |s|
   s.name             = 'LoginTextFieldExtension'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of LoginTextFieldExtension.'
+  s.summary          = 'A bunch of useful methods of UITextField.'
+  s.swift_version    = '4.0'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +19,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+'LoginTextFieldExtension has few method which helps you to add border to textfield and validation for login module by simply calling ready-made methods.'
                        DESC
 
   s.homepage         = 'https://github.com/shripad20/LoginTextFieldExtension'
