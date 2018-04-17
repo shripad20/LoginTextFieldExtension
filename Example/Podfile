@@ -1,0 +1,6 @@
+use_frameworks!
+target 'LoginTextFieldExtension_Tests' do
+  pod 'LoginTextFieldExtension', :path => '../'
+  
+  
+end
