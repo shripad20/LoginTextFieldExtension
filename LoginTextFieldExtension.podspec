@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LoginTextFieldExtension'
-  s.version          = '0.1.0'
+  s.version          = '1.0.2'
   s.summary          = 'A bunch of useful methods of UITextField.'
   s.swift_version    = '4.0'
 

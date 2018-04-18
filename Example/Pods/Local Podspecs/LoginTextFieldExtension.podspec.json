@@ -1,0 +1,22 @@
+{
+  "name": "LoginTextFieldExtension",
+  "version": "0.1.0",
+  "summary": "A short description of LoginTextFieldExtension.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/shripad20/LoginTextFieldExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shripad20": "shripad.chidrawar20@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/shripad20/LoginTextFieldExtension.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LoginTextFieldExtension/Classes/**/*"
+}

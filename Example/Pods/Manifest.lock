@@ -1,0 +1,16 @@
+PODS:
+  - LoginTextFieldExtension (0.1.0)
+
+DEPENDENCIES:
+  - LoginTextFieldExtension (from `../`)
+
+EXTERNAL SOURCES:
+  LoginTextFieldExtension:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LoginTextFieldExtension: cf995bf59e6586cfd0c612d6f0e8805092fd800d
+
+PODFILE CHECKSUM: acd94dbc9e6cfd262ba6cfc5fde66b3946b5e1f4
+
+COCOAPODS: 1.4.0

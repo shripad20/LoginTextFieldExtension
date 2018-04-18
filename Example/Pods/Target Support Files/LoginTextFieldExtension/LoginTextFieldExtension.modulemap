@@ -1,0 +1,6 @@
+framework module LoginTextFieldExtension {
+  umbrella header "LoginTextFieldExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}
